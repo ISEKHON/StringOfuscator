@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_text">Enter string</string>
+    <string name="title">Your ofuscated string</string>
+    <string name="postive_btn">Copy String</string>
+    <string name="tg_link">https://t.me/team_illuminate</string>
+</resources>

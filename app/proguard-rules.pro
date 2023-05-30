@@ -1,0 +1,8 @@
+-keepattributes SourceFile,LineNumberTable
+-renamesourcefileattribute SourceFile
+-repackageclasses 'team.illuminate'
+-classobfuscationdictionary illuminati.txt
+-obfuscationdictionary illuminati.txt
+-dontnote
+-dontwarn
+-ignorewarnings

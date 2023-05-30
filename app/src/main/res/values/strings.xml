@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">String Ofuscator</string>
+    <string name="ofuscate_string">Ofuscate String</string>
+    <string name="title">Your ofuscated string</string>
+    <string name="postive_btn">Copy String</string>
+    <string name="copied">Ofuscated String copied to clipboard</string>
+    <string name="enter_text">Enter string</string>
+    <string name="codeX">Settings</string>
+    <string name="illuminate">Team illuminate</string>
+    <string name="team_illuminate">https://t.me/team_illuminate</string>
+    <string name="codex_cheats">https://t.me/codeX_cheats</string>
+</resources>

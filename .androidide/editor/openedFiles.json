@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/StringOfuscator/app/src/main/java/co/illuminati/stringofuscator/OfuscatorActivity.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": -1,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": -1,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/StringOfuscator/app/src/main/res/layout/activity_ofuscator.xml",
+      "selection": {
+        "end": {
+          "column": 38,
+          "index": -1,
+          "line": 23
+        },
+        "start": {
+          "column": 38,
+          "index": -1,
+          "line": 23
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/StringOfuscator/app/src/main/res/layout/activity_ofuscator.xml"
+}
